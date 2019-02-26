@@ -1,0 +1,5 @@
+When using Private mode in Firefox nothing is saved in the history or cookies. 
+
+One might want to use this mode if you do not want to track all the websites you browse.
+
+I can see it used for testing because it wont save the previuos action therefor allowing you to repeat your steps if need be.
